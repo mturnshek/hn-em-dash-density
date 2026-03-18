@@ -7,6 +7,6 @@ python3 hn_em_dash_density.py
 ```
 
 ```
-# If you want only to only include true — em dash (U+2014) and not – en dash (U+2013)
+# If you want to only include true — em dash (U+2014) and not – en dash (U+2013)
 python3 hn_em_dash_density.py --strictly-em-dashes
 ```
