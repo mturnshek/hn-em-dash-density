@@ -1,10 +1,6 @@
-# HN Em-Dash Density
-
 Fetches the last week's worth of text post ShowHNs from Hacker News and ranks every post by its "em-dash density". This is a terrible but perhaps interesting proxy for how much AI was used to write the text.
 
-Em-Dash Density: The percentage of characters in the combined title + body text that are em-dashes (—) or en-dashes (–).
-
-## Usage
+"Em-dash density": The percentage of characters in the combined title + body text that are em-dashes (—) or en-dashes (–).
 
 ```
 python3 hn_em_dash_density.py
